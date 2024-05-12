@@ -8,7 +8,7 @@ __version__= "0.0.0"
 
 REPO_NAME = "Kidney-Disease-Classification"
 AUTHOR_USER_NAME = "DivyanshKushwaha"
-SRC_REPO = "CnnClassfier"
+SRC_REPO = "CnnClassfier"   # This will enable the local package as CnnClassifier, no need to add src folder while importing files.
 AUTHOR_EMAIL = "jatinkushwaha309@gmail.com"
 
 setuptools.setup(
