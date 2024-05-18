@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DLProject/Kidney-Disease-Classification/mlruns/0/0b281c525b0e42d4bd6b8e82e1893dcd/artifacts
+end_time: 1716016418909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b281c525b0e42d4bd6b8e82e1893dcd
+run_name: gifted-kite-315
+run_uuid: 0b281c525b0e42d4bd6b8e82e1893dcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716016406938
+status: 3
+tags: []
+user_id: jatin
